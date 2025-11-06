@@ -1,0 +1,6 @@
+AI_USAGE.txt — Parties générées par IA
+
+Ce fichier décrit quelles parties du projet ont été générées automatiquement (IA) et quelles parties ont été écrites manuellement par l'utilisateur.
+
+
+- Recommandation: ajoute des commentaires personnels, améliore les algorithmes ou la structure, et cite les modifications humaines dans le rapport final pour respecter la règle de ton établissement.
